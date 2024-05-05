@@ -1,0 +1,8 @@
+D:/GitHub/UnityGames/Survival2D/.utmp/RelWithDebInfo/6a1m6u17/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/GitHub/UnityGames/Survival2D/.utmp/RelWithDebInfo/6a1m6u17/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/GitHub/UnityGames/Survival2D/.utmp/RelWithDebInfo/6a1m6u17/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+D:/GitHub/UnityGames/Survival2D/.utmp/RelWithDebInfo/6a1m6u17/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+D:/GitHub/UnityGames/Survival2D/.utmp/RelWithDebInfo/6a1m6u17/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
+D:/GitHub/UnityGames/Survival2D/.utmp/RelWithDebInfo/6a1m6u17/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/GitHub/UnityGames/Survival2D/.utmp/RelWithDebInfo/6a1m6u17/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+D:/GitHub/UnityGames/Survival2D/.utmp/RelWithDebInfo/6a1m6u17/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

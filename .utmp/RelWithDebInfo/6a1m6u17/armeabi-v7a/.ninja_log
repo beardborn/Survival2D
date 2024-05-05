@@ -1,0 +1,11 @@
+# ninja log v5
+30	138	7365626110626708	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	94be0ae1009e8286
+167	318	7365626112089121	D:/GitHub/UnityGames/Survival2D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6a1m6u17/obj/armeabi-v7a/libswappywrapper.so	99e8940c311cb930
+4	630	7365626115506458	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	88aff2b24854b7e1
+11	688	7365626116089195	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	919dd4ca4babe4e6
+19	703	7365626116230061	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e68bb7eb9805606d
+24	777	7365626116972894	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b27add551f16c831
+7	829	7365626117510384	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d1e9629a725fc129
+15	942	7365626118614490	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5aa2dda43c19a3e
+0	946	7365626118649659	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	afc6f06ff12528f2
+946	1045	7365626119413518	D:/GitHub/UnityGames/Survival2D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6a1m6u17/obj/armeabi-v7a/libgame.so	3e38444f1ccd1625

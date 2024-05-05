@@ -1,11 +1,21 @@
 # ninja log v5
 67	874	7365583241832919	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	738324051b2f45c8
+19	5304	7365583286559277	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f38ca6fccb038837
+49	4948	7365583282899178	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	acd35dc75e1f6aed
 875	1352	7365583245377872	D:/GitHub/UnityGames/Survival2D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6a1m6u17/obj/arm64-v8a/libswappywrapper.so	af1f0a399ec56015
 34	4805	7365583275993223	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	683374085b947822
+12	4841	7365583281730410	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9554df608d9fd145
 28	4837	7365583278353035	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7b9c42903c9ac7dc
 60	4838	7365583278986359	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	183796e12281614c
 1	4840	7365583280874890	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	1df072da3b1fe9a9
-12	4841	7365583281730410	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9554df608d9fd145
-49	4948	7365583282899178	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	acd35dc75e1f6aed
-19	5304	7365583286559277	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f38ca6fccb038837
 5304	5478	7365583287909341	D:/GitHub/UnityGames/Survival2D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6a1m6u17/obj/arm64-v8a/libgame.so	96fc554d1108da6b
+39	145	7365626078195196	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	738324051b2f45c8
+146	326	7365626079408229	D:/GitHub/UnityGames/Survival2D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6a1m6u17/obj/arm64-v8a/libswappywrapper.so	af1f0a399ec56015
+23	645	7365626083114846	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	683374085b947822
+27	707	7365626083749653	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7b9c42903c9ac7dc
+5	707	7365626083749653	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	1df072da3b1fe9a9
+33	787	7365626084557882	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	183796e12281614c
+15	832	7365626085012756	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9554df608d9fd145
+9	959	7365626086279532	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	acd35dc75e1f6aed
+19	1025	7365626086912939	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f38ca6fccb038837
+1026	1150	7365626087726771	D:/GitHub/UnityGames/Survival2D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6a1m6u17/obj/arm64-v8a/libgame.so	96fc554d1108da6b
